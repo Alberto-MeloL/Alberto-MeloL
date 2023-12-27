@@ -44,7 +44,6 @@ Here are some ideas to get you started:
 
 <h1>Sistemas operacionais:</h1>
 <div style="display: flex">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="560" height="100"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="200" height="100"/>
   </div>
    <hr>
