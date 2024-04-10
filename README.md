@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 <hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alberto-MeloL&show_icons=false&theme=dark)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alberto-MeloL&layout=donut&icons=true&theme=nightowl)](https://github.com/Alberto-MeloL/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alberto-MeloL&show_icons=false&theme=algolia)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alberto-MeloL&layout=donut&icons=true&theme=algolia)](https://github.com/Alberto-MeloL/github-readme-stats)
   
   
   <div style="display: inline_block">
